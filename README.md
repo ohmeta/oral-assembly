@@ -5,7 +5,7 @@ reveal new taxa](https://www.biorxiv.org/content/10.1101/820365v1)
 
 ### figure
 **Figure 1.** 3,589 oral SGBs assembled from 4154 (3346 new sequence) meta-analyzed oral-wide metagenomes. 
-[figure 1c,d](figure/figure1.unknownness.r)
+[figure 1c,d](figure/figure1_unknownness/figure1.unknownness.r)
 
 **Figure 2.** The expanded genome set substantially increases the mappability of oral metagenomes. 
 [figure 2](figure/figure2_mapping/figure2_mapping_rate.R)
