@@ -1,0 +1,1089 @@
+database	study	country	diagnosis	sample_id	human_mapping_rate
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764795	0.3341488032478716
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764796	0.3305445301029279
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764797	0.28344150249842054
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764798	0.2878018091870097
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764799	0.28587018900586114
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764800	0.29406701221769715
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764801	0.4332805257618845
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764802	0.4358598772853764
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764803	0.43426476546098947
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764804	0.1026065341159156
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764805	0.10226440561147566
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764806	0.10124213711282745
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764807	0.2751654140168305
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764808	0.27328696462444674
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764809	0.26847924669227485
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764810	0.19679028535796708
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764811	0.19771538136557149
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764812	0.1964327622623797
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764813	0.22759560671117932
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764814	0.22861845648717474
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764815	0.22661901780745689
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764816	0.25557136906414885
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764817	0.25571887557232525
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764818	0.25324238639638774
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764819	0.3504120742726641
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764820	0.3512249149547744
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764821	0.3479811360746079
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764822	0.3526294989827432
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764823	0.35348308934881373
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764824	0.3480039715146535
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764825	0.3492368107752723
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764826	0.47271166415925064
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764827	0.4680224091555449
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764828	0.4616866048424176
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764829	0.4982959061333908
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764830	0.49776462140815303
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764831	0.49275421563617783
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764832	0.17399539520693214
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764833	0.1610615447173918
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764834	0.16337980936657595
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764835	0.1685858379733551
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764836	0.3198654244306418
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764837	0.3192901595123298
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764838	0.3180030774491366
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764839	0.1883940701670263
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764840	0.1875954061613171
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764841	0.18736463757430533
+noOral_human	ZellerG_2014	France	healthy	ERR2764842	0.705892859350935
+noOral_human	ZellerG_2014	France	healthy	ERR2764843	0.7049774656116177
+noOral_human	ZellerG_2014	France	healthy	ERR2764844	0.6909325367914906
+noOral_human	ZellerG_2014	France	healthy	ERR2764845	0.7006851965998194
+noOral_human	ZellerG_2014	France	healthy	ERR2764846	0.6937703883577195
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764847	0.7837233360296748
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764848	0.7815806072636069
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764849	0.7712922489900261
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764850	0.7760756061035334
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764851	0.7734895878251524
+noOral_human	ZellerG_2014	France	healthy	ERR2764852	0.7227636778009904
+noOral_human	ZellerG_2014	France	healthy	ERR2764853	0.7237142226473402
+noOral_human	ZellerG_2014	France	healthy	ERR2764854	0.7122678291608802
+noOral_human	ZellerG_2014	France	healthy	ERR2764855	0.7202291941553047
+noOral_human	ZellerG_2014	France	healthy	ERR2764856	0.7164499194870276
+noOral_human	ZellerG_2014	France	healthy	ERR2764857	0.6006017004578156
+noOral_human	ZellerG_2014	France	healthy	ERR2764858	0.5975141458919938
+noOral_human	ZellerG_2014	France	healthy	ERR2764859	0.583381481716976
+noOral_human	ZellerG_2014	France	healthy	ERR2764860	0.5922952394018384
+noOral_human	ZellerG_2014	France	healthy	ERR2764861	0.5875497327492666
+noOral_human	ZellerG_2014	France	healthy	ERR2764863	0.6733106272851013
+noOral_human	ZellerG_2014	France	healthy	ERR2764864	0.6564036694720313
+noOral_human	ZellerG_2014	France	healthy	ERR2764865	0.6645507978777745
+noOral_human	ZellerG_2014	France	healthy	ERR2764866	0.6626843599129927
+noOral_human	ZellerG_2014	France	healthy	ERR2764867	0.4877943914393759
+noOral_human	ZellerG_2014	France	healthy	ERR2764868	0.49044727094963375
+noOral_human	ZellerG_2014	France	healthy	ERR2764869	0.4748984338593491
+noOral_human	ZellerG_2014	France	healthy	ERR2764870	0.48416532253074324
+noOral_human	ZellerG_2014	France	healthy	ERR2764871	0.47588170891254256
+noOral_human	ZellerG_2014	France	healthy	ERR2764872	0.7112025161428177
+noOral_human	ZellerG_2014	France	healthy	ERR2764873	0.713918292426342
+noOral_human	ZellerG_2014	France	healthy	ERR2764874	0.7005604143669865
+noOral_human	ZellerG_2014	France	healthy	ERR2764875	0.7074330476901675
+noOral_human	ZellerG_2014	France	healthy	ERR2764876	0.7045859049521749
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764877	0.7362365683830482
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764878	0.7372751311008668
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764879	0.7256961832198081
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764880	0.7321535361877234
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764881	0.728958032915157
+noOral_human	ZellerG_2014	France	healthy	ERR2764882	0.37676111920361743
+noOral_human	ZellerG_2014	France	healthy	ERR2764883	0.37703313673321304
+noOral_human	ZellerG_2014	France	healthy	ERR2764884	0.36350434933357806
+noOral_human	ZellerG_2014	France	healthy	ERR2764885	0.3714643152605985
+noOral_human	ZellerG_2014	France	healthy	ERR2764886	0.3651080088170463
+noOral_human	ZellerG_2014	France	healthy	ERR2764887	0.5153518496808317
+noOral_human	ZellerG_2014	France	healthy	ERR2764888	0.512962962962963
+noOral_human	ZellerG_2014	France	healthy	ERR2764889	0.4984239462431277
+noOral_human	ZellerG_2014	France	healthy	ERR2764890	0.507823833128227
+noOral_human	ZellerG_2014	France	healthy	ERR2764962	0.7230386910801202
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764911	0.5892701406017463
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2765011	0.6404860754645723
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764921	0.6176865548301793
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764910	0.6025737953394713
+noOral_human	Heintz_2016	Luxembourg		SRR8114009	0.5417098719298177
+noOral_human	Heintz_2016	Luxembourg		SRR8114010	0.26408828398383233
+noOral_human	Heintz_2016	Luxembourg		SRR8114011	0.5393062397372742
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114012	0.6836010913354341
+noOral_human	Heintz_2016	Luxembourg		SRR8114013	0.37213335786612933
+noOral_human	Heintz_2016	Luxembourg		SRR8114014	0.4574911298198766
+noOral_human	Heintz_2016	Luxembourg	type 2 diabetes	SRR8114015	0.7331279978183102
+noOral_human	Heintz_2016	Luxembourg	type 2 diabetes	SRR8114016	0.7640762238064616
+noOral_human	Heintz_2016	Luxembourg	type 2 diabetes	SRR8114017	0.5844295355679814
+noOral_human	Heintz_2016	Luxembourg		SRR8114018	0.4868381240544629
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764924	0.6054726261990375
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764923	0.5993362759877233
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764919	0.6924584999073363
+noOral_human	ZellerG_2014	France	healthy	ERR2764905	0.5880042513745045
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764939	0.726992603300578
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2765000	0.47867975302249316
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764920	0.7925323890732804
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764988	0.697347515990096
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2765007	0.6530225733693037
+noOral_human	ZellerG_2014	France	healthy	ERR2764949	0.6776748324588474
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764928	0.5575177690388672
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764964	0.7459558845476525
+noOral_human	ZellerG_2014	France	healthy	ERR2764970	0.6314974239340376
+noOral_human	ZellerG_2014	France	healthy	ERR2764960	0.7304961533283806
+noOral_human	ZellerG_2014	France	healthy	ERR2764954	0.742993070287088
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2765010	0.645301983705278
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2765002	0.5206737391556512
+noOral_human	ZellerG_2014	France	healthy	ERR2764935	0.6694767768975951
+noOral_human	ZellerG_2014	France	healthy	ERR2764950	0.678114191699885
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764893	0.8409156740525852
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764965	0.7228283778087611
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764938	0.8265891264100746
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764932	0.5414801754148018
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2765001	0.4747645751772299
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764926	0.7976141294914078
+noOral_human	ZellerG_2014	France	healthy	ERR2764968	0.6307820449436561
+noOral_human	ZellerG_2014	France	healthy	ERR2764959	0.7303683647192226
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764930	0.5414881080517266
+noOral_human	ZellerG_2014	France	healthy	ERR2764903	0.7147202172642375
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764892	0.7957359781613118
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764971	0.6505065598550018
+noOral_human	ZellerG_2014	France	healthy	ERR2764956	0.7342078510683794
+noOral_human	ZellerG_2014	France	healthy	ERR2764907	0.5798642659688263
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764896	0.8126841667581943
+noOral_human	ZellerG_2014	France	healthy	ERR2764934	0.6804170463102801
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764979	0.6314012380416432
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764925	0.5993607343783997
+noOral_human	ZellerG_2014	France	healthy	ERR2764945	0.6850027969060433
+noOral_human	ZellerG_2014	France	healthy	ERR2764899	0.7224757065325691
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764909	0.6031170461973745
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764993	0.4306334845206501
+noOral_human	ZellerG_2014	France	healthy	ERR2764953	0.6681966263664664
+noOral_human	ZellerG_2014	France	healthy	ERR2764937	0.6717327554380288
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764914	0.6765114536819767
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764975	0.6417811914361974
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764977	0.6356026581954942
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764987	0.7090226497908931
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764998	0.4820697459109145
+noOral_human	ZellerG_2014	France	healthy	ERR2764963	0.7183976164326957
+noOral_human	ZellerG_2014	France	healthy	ERR2764906	0.570092396587595
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764897	0.8183327363617959
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764927	0.7113918090179174
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764929	0.5564993657118542
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764918	0.6783800947162902
+noOral_human	ZellerG_2014	France	healthy	ERR2764946	0.6714439128309003
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764978	0.6317277116947356
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764916	0.670123922884659
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764976	0.634893078230904
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764989	0.7059606832736687
+noOral_human	ZellerG_2014	France	healthy	ERR2764961	0.7172317980994485
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764912	0.5970119766331914
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764973	0.6371879674987533
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764943	0.71567771325445
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764898	0.8170138218834427
+noOral_human	ZellerG_2014	France	healthy	ERR2764891	0.5020872633714515
+noOral_human	ZellerG_2014	France	small adenoma	ERR2764996	0.49913529607399076
+noOral_human	ZellerG_2014	France	healthy	ERR2764904	0.5842267781076336
+noOral_human	ZellerG_2014	France	healthy	ERR2764933	0.6815664901669731
+noOral_human	ZellerG_2014	France	healthy	ERR2764908	0.5754549291607198
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764974	0.646169590959377
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2765009	0.6356636158789328
+noOral_human	ZellerG_2014	France	healthy	ERR2764948	0.6742042990043794
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764990	0.700273744780033
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764984	0.6534058213379812
+noOral_human	ZellerG_2014	France	healthy	ERR2764969	0.6385142848902465
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764999	0.4705757607888877
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764915	0.6805350038812342
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764980	0.6355499105904373
+noOral_human	ZellerG_2014	France	healthy	ERR2764936	0.6749189017635624
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764922	0.6102438413682852
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764940	0.7253552729992521
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764986	0.7081347785164182
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764972	0.6508380247707898
+noOral_human	ZellerG_2014	France	healthy	ERR2764958	0.7371283657060848
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764913	0.5921831717104499
+noOral_human	ZellerG_2014	France	healthy	ERR2764951	0.6630804394749344
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764991	0.43483342936214825
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764941	0.71204256520859
+noOral_human	ZellerG_2014	France	healthy	ERR2764955	0.7440011676455641
+noOral_human	ZellerG_2014	France	healthy	ERR2764957	0.7417722593954234
+noOral_human	ZellerG_2014	France	healthy	ERR2764902	0.7178986361340293
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764992	0.43936882743562483
+noOral_human	ZellerG_2014	France	healthy	ERR2764952	0.6723022087093846
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764895	0.821857149549063
+noOral_human	ZellerG_2014	France	healthy	ERR2764966	0.646240121883169
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764942	0.7195013773968923
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764994	0.43395753878485466
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2765003	0.5207619394823186
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764983	0.6459808148809498
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764917	0.6786021672629232
+noOral_human	Heintz_2016	Luxembourg		SRR8114019	0.17131744617635064
+noOral_human	Heintz_2016	Luxembourg		SRR8114020	0.6363581606663454
+noOral_human	Heintz_2016	Luxembourg		SRR8114021	0.3115374730640729
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114022	0.6196458611058211
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114023	0.45518765221037694
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114024	0.44222600763481484
+noOral_human	Heintz_2016	Luxembourg	type 2 diabetes	SRR8114029	0.7210145082736139
+noOral_human	Heintz_2016	Luxembourg	type 2 diabetes	SRR8114030	0.6619667105125676
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114031	0.7426766196420953
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114032	0.8669550273081594
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764997	0.4876686392317934
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764982	0.6560778289810548
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764985	0.6471330146087776
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2765005	0.5107034024227466
+noOral_human	ZellerG_2014	France	healthy	ERR2764947	0.6796747549743735
+noOral_human	ZellerG_2014	France	healthy	ERR2764944	0.6868795927583234
+noOral_human	ZellerG_2014	France	healthy	ERR2764900	0.7221510533374713
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2765008	0.6546676340851648
+noOral_human	ZellerG_2014	France	healthy	ERR2764967	0.644334337251854
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2765006	0.5041661134647338
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764981	0.6565476166667333
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2765004	0.5003194163087242
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764995	0.4330473848800545
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764931	0.5493462734390667
+noOral_human	ZellerG_2014	France	colorectal cancer	ERR2764894	0.8226203270301717
+noOral_human	ZellerG_2014	France	healthy	ERR2764901	0.7117542115429237
+noOral_human	IlanaB_2019	Fiji		SRS475563	0.3421148501973583
+noOral_human	IlanaB_2019	Fiji		SRS475571	0.3553512101658264
+noOral_human	IlanaB_2019	Fiji		SRS475584	0.4071178386482504
+noOral_human	IlanaB_2019	Fiji		SRS475587	0.3272904692338498
+noOral_human	IlanaB_2019	Fiji		SRS475588	0.12922589461512118
+noOral_human	IlanaB_2019	Fiji		SRS475590	0.39686866796325077
+noOral_human	IlanaB_2019	Fiji		SRS475591	0.34442459327741
+noOral_human	IlanaB_2019	Fiji		SRS475592	0.31398988903326924
+noOral_human	IlanaB_2019	Fiji		SRS475593	0.360057556536469
+noOral_human	IlanaB_2019	Fiji		SRS475595	0.18325080040547187
+noOral_human	IlanaB_2019	Fiji		SRS475597	0.35846169474144174
+noOral_human	IlanaB_2019	Fiji		SRS475599	0.22125469949916118
+noOral_human	IlanaB_2019	Fiji		SRS475616	0.33429422786731416
+noOral_human	IlanaB_2019	Fiji		SRS475622	0.3228601718676268
+noOral_human	IlanaB_2019	Fiji		SRS475628	0.40169029135690837
+noOral_human	IlanaB_2019	Fiji		SRS475635	0.3163762324591619
+noOral_human	IlanaB_2019	Fiji		SRS475646	0.2972233651610274
+noOral_human	IlanaB_2019	Fiji		SRS475650	0.3335482967356858
+noOral_human	IlanaB_2019	Fiji		SRS475654	0.3218873338928213
+noOral_human	IlanaB_2019	Fiji		SRS475663	0.3465795375081382
+noOral_human	IlanaB_2019	Fiji		SRS475665	0.3720159434532348
+noOral_human	IlanaB_2019	Fiji		SRS475668	0.25751211477557456
+noOral_human	IlanaB_2019	Fiji		SRS475669	0.2840866335176376
+noOral_human	IlanaB_2019	Fiji		SRS475672	0.28808226668657105
+noOral_human	IlanaB_2019	Fiji		SRS475679	0.28456586060476474
+noOral_human	IlanaB_2019	Fiji		SRS475685	0.18956129336762437
+noOral_human	IlanaB_2019	Fiji		SRS475691	0.3196168099187034
+noOral_human	IlanaB_2019	Fiji		SRS475696	0.32420672190396577
+noOral_human	IlanaB_2019	Fiji		SRS475697	0.3046531182436688
+noOral_human	IlanaB_2019	Fiji		SRS475699	0.2998962820243091
+noOral_human	IlanaB_2019	Fiji		SRS475704	0.35944199655831666
+noOral_human	IlanaB_2019	Fiji		SRS475708	0.2795865004194593
+noOral_human	IlanaB_2019	Fiji		SRS475916	0.30190700417430727
+noOral_human	IlanaB_2019	Fiji		SRS475918	0.3247422436214278
+noOral_human	IlanaB_2019	Fiji		SRS475926	0.3872276806433652
+noOral_human	IlanaB_2019	Fiji		SRS475930	0.3467822710959675
+noOral_human	IlanaB_2019	Fiji		SRS475932	0.3407820915304306
+noOral_human	IlanaB_2019	Fiji		SRS475939	0.3088153572843577
+noOral_human	IlanaB_2019	Fiji		SRS475950	0.32975663607291017
+noOral_human	IlanaB_2019	Fiji		SRS475952	0.3667906396210829
+noOral_human	IlanaB_2019	Fiji		SRS475954	0.28149385839726654
+noOral_human	IlanaB_2019	Fiji		SRS475960	0.22204244090471298
+noOral_human	IlanaB_2019	Fiji		SRS475961	0.389378392889101
+noOral_human	IlanaB_2019	Fiji		SRS475964	0.2405172810403301
+noOral_human	IlanaB_2019	Fiji		SRS475966	0.29290603576317864
+noOral_human	IlanaB_2019	Fiji		SRS475969	0.2479642515000252
+noOral_human	IlanaB_2019	Fiji		SRS475972	0.24178802485823833
+noOral_human	IlanaB_2019	Fiji		SRS475975	0.2613261212282197
+noOral_human	IlanaB_2019	Fiji		SRS475982	0.34021090252484254
+noOral_human	IlanaB_2019	Fiji		SRS475983	0.34022821396576197
+noOral_human	IlanaB_2019	Fiji		SRS475992	0.3457374102341193
+noOral_human	IlanaB_2019	Fiji		SRS476002	0.12442513670110582
+noOral_human	IlanaB_2019	Fiji		SRS476005	0.2954553859646342
+noOral_human	IlanaB_2019	Fiji		SRS476006	0.3487362336170329
+noOral_human	IlanaB_2019	Fiji		SRS476007	0.3943296094756475
+noOral_human	IlanaB_2019	Fiji		SRS476011	0.3204082949033882
+noOral_human	IlanaB_2019	Fiji		SRS476012	0.2738686289827977
+noOral_human	IlanaB_2019	Fiji		SRS476027	0.32629280931989674
+noOral_human	IlanaB_2019	Fiji		SRS476038	0.29939995670542907
+noOral_human	IlanaB_2019	Fiji		SRS476046	0.24917609724980574
+noOral_human	IlanaB_2019	Fiji		SRS476048	0.2809305615297726
+noOral_human	IlanaB_2019	Fiji		SRS476052	0.36203856096903886
+noOral_human	IlanaB_2019	Fiji		SRS476054	0.18060980771077775
+noOral_human	IlanaB_2019	Fiji		SRS476056	0.32583538016483815
+noOral_human	IlanaB_2019	Fiji		SRS476057	0.29689630328244104
+noOral_human	IlanaB_2019	Fiji		SRS476072	0.3414365394870188
+noOral_human	IlanaB_2019	Fiji		SRS476073	0.3472703673513096
+noOral_human	IlanaB_2019	Fiji		SRS476087	0.3005202198313671
+noOral_human	IlanaB_2019	Fiji		SRS476088	0.25749995912125323
+noOral_human	IlanaB_2019	Fiji		SRS476089	0.3414823526140115
+noOral_human	IlanaB_2019	Fiji		SRS476105	0.25940885193069946
+noOral_human	IlanaB_2019	Fiji		SRS476113	0.2681365005506407
+noOral_human	IlanaB_2019	Fiji		SRS476116	0.31830185419884277
+noOral_human	IlanaB_2019	Fiji		SRS476122	0.3204452039178987
+noOral_human	IlanaB_2019	Fiji		SRS476137	0.33929420427111034
+noOral_human	IlanaB_2019	Fiji		SRS476150	0.29417029273283696
+noOral_human	IlanaB_2019	Fiji		SRS476151	0.29545792976241114
+noOral_human	IlanaB_2019	Fiji		SRS476162	0.3702991290318923
+noOral_human	IlanaB_2019	Fiji		SRS476171	0.21429182702188118
+noOral_human	IlanaB_2019	Fiji		SRS476174	0.3261290091467055
+noOral_human	IlanaB_2019	Fiji		SRS476175	0.38615000730390503
+noOral_human	IlanaB_2019	Fiji		SRS476180	0.24784715250138573
+noOral_human	IlanaB_2019	Fiji		SRS476181	0.2986319640367398
+noOral_human	IlanaB_2019	Fiji		SRS476200	0.3585500719246306
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114033	0.43868308317487714
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114034	0.3324719910352905
+noOral_human	Heintz_2016	Luxembourg		SRR8114035	0.3127849476291036
+noOral_human	Heintz_2016	Luxembourg		SRR8114036	0.6979629326946993
+noOral_human	Heintz_2016	Luxembourg		SRR8114037	0.9146683486478573
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114038	0.8208773291521027
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114039	0.16388898684628134
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114040	0.3954624560625147
+noOral_human	Heintz_2016	Luxembourg		SRR8114041	0.3108132394373986
+noOral_human	Heintz_2016	Luxembourg		SRR8114042	0.4432351669091338
+noOral_human	IlanaB_2019	Fiji		SRS476201	0.3415797801776267
+noOral_human	IlanaB_2019	Fiji		SRS476202	0.20415006727699656
+noOral_human	IlanaB_2019	Fiji		SRS476208	0.3485565474599233
+noOral_human	IlanaB_2019	Fiji		SRS476260	0.1791170886841278
+noOral_human	IlanaB_2019	Fiji		SRS476275	0.39580034223730387
+noOral_human	IlanaB_2019	Fiji		SRS476281	0.19551605540279068
+noOral_human	IlanaB_2019	Fiji		SRS476282	0.3243961275467063
+noOral_human	IlanaB_2019	Fiji		SRS476283	0.38913746680819755
+noOral_human	IlanaB_2019	Fiji		SRS476284	0.31620666294915456
+noOral_human	IlanaB_2019	Fiji		SRS476294	0.3374789720722311
+noOral_human	IlanaB_2019	Fiji		SRS476297	0.29426588173705187
+noOral_human	IlanaB_2019	Fiji		SRS476353	0.2857589784517159
+noOral_human	IlanaB_2019	Fiji		SRS476355	0.04012660758170326
+noOral_human	IlanaB_2019	Fiji		SRS476701	0.3344044596948429
+noOral_human	IlanaB_2019	Fiji		SRS476827	0.2112707685183989
+noOral_human	IlanaB_2019	Fiji		SRS476865	0.36525301560379636
+noOral_human	IlanaB_2019	Fiji		SRS475543	0.3686916352294746
+noOral_human	IlanaB_2019	Fiji		SRS475535	0.3011604619061408
+noOral_human	Yunnan	China		YS000001_saliva	0.09788505962414934
+noOral_human	Yunnan	China		YS000002_saliva	0.14087663268827866
+noOral_human	Yunnan	China		YS000003_saliva	0.11396566544181858
+noOral_human	Yunnan	China		YS000004_saliva	0.05310486159050741
+noOral_human	Yunnan	China		YS000005_saliva	0.12818301165751977
+noOral_human	Yunnan	China		YS000006_saliva	0.08958166346862273
+noOral_human	Yunnan	China		YS000007_saliva	0.15357387832632746
+noOral_human	Yunnan	China		YS000012_saliva	0.12564116808325462
+noOral_human	Yunnan	China		YS000013_saliva	0.08719087458076881
+noOral_human	Yunnan	China		YS000014_saliva	0.1368463712694322
+noOral_human	Yunnan	China		YS000015_saliva	0.14818189562891929
+noOral_human	Yunnan	China		YS000016_saliva	0.13009706696937687
+noOral_human	Yunnan	China		YS000017_saliva	0.04789457574204412
+noOral_human	Yunnan	China		YS000019_saliva	0.10177439053200217
+noOral_human	Yunnan	China		YS000020_saliva	0.10947868854252718
+noOral_human	Yunnan	China		YS000021_saliva	0.07582102652063503
+noOral_human	Yunnan	China		YS000022_saliva	0.17516276955574273
+noOral_human	Yunnan	China		YS000023_saliva	0.1587637980038337
+noOral_human	Yunnan	China		YS000024_saliva	0.0483875962713536
+noOral_human	Yunnan	China		YS000025_saliva	0.08700513086705663
+noOral_human	Yunnan	China		YS000026_saliva	0.039570260329746386
+noOral_human	Yunnan	China		YS000027_saliva	0.2512659437699824
+noOral_human	Yunnan	China		YS000028_saliva	0.11297238939786455
+noOral_human	Yunnan	China		YS000029_saliva	0.060203346073895256
+noOral_human	Yunnan	China		YS000030_saliva	0.24169173740195551
+noOral_human	Yunnan	China		YS000033_saliva	0.04565189980977233
+noOral_human	Yunnan	China		YS000034_saliva	0.10524673427722542
+noOral_human	Yunnan	China		YS000035_saliva	0.09498424193656542
+noOral_human	Yunnan	China		YS000036_saliva	0.1537702780650468
+noOral_human	Yunnan	China		YS000037_saliva	0.11214634178370464
+noOral_human	Yunnan	China		YS000038_saliva	0.14623601916235546
+noOral_human	Yunnan	China		YS000039_saliva	0.18742533954583798
+noOral_human	Yunnan	China		YS000044_saliva	0.13538044606659308
+noOral_human	Yunnan	China		YS000045_saliva	0.18138337540156035
+noOral_human	Yunnan	China		YS000048_saliva	0.10468958554038084
+noOral_human	Yunnan	China		YS000049_saliva	0.20283438523775132
+noOral_human	Yunnan	China		YS000050_saliva	0.29283858288002473
+noOral_human	Yunnan	China		YS000051_saliva	0.14275264975419003
+noOral_human	Yunnan	China		YS000052_saliva	0.15226532174608853
+noOral_human	Yunnan	China		YS000056_saliva	0.15180778951889562
+noOral_human	Yunnan	China		YS000057_saliva	0.09715583202261142
+noOral_human	Yunnan	China		YS000058_saliva	0.18078639003666977
+noOral_human	Yunnan	China		YS000063_saliva	0.20031637665473317
+noOral_human	Yunnan	China		YS000065_saliva	0.09134496706904673
+noOral_human	Yunnan	China		YS000066_saliva	0.13599988222824166
+noOral_human	Yunnan	China		YS000073_saliva	0.061440461877489964
+noOral_human	Yunnan	China		YS000075_saliva	0.1871644222680449
+noOral_human	Yunnan	China		YS000076_saliva	0.21829175666644618
+noOral_human	Yunnan	China		YS000077_saliva	0.07587779544276177
+noOral_human	Yunnan	China		YS000078_saliva	0.12661507297157784
+noOral_human	Yunnan	China		YS000080_saliva	0.20475574852831172
+noOral_human	Yunnan	China		YS000081_saliva	0.11199866972799775
+noOral_human	Yunnan	China		YS000082_saliva	0.027811070446322333
+noOral_human	Yunnan	China		YS000119_saliva	0.1738942474868193
+noOral_human	Yunnan	China		YS000121_saliva	0.08510236814793848
+noOral_human	Yunnan	China		YS000122_saliva	0.18654648506575097
+noOral_human	Yunnan	China		YS000123_saliva	0.11310959872844646
+noOral_human	Yunnan	China		YS000124_saliva	0.13069784939494639
+noOral_human	Yunnan	China		YS000125_saliva	0.16345225321888412
+noOral_human	Yunnan	China		YS000126_saliva	0.14315088292590963
+noOral_human	Yunnan	China		YS000127_saliva	0.12901697554751887
+noOral_human	Yunnan	China		YS000128_saliva	0.24482917333895884
+noOral_human	Yunnan	China		YS000130_saliva	0.3796248540223035
+noOral_human	Yunnan	China		YS000131_saliva	0.11164657554508232
+noOral_human	Yunnan	China		YS000132_saliva	0.0729259518958034
+noOral_human	Yunnan	China		YS000133_saliva	0.1615873841498014
+noOral_human	Yunnan	China		YS000134_saliva	0.17436478394562227
+noOral_human	Yunnan	China		YS000135_saliva	0.07792751857795652
+noOral_human	Yunnan	China		YS000137_saliva	0.09254464834195213
+noOral_human	Yunnan	China		YS000138_saliva	0.10900735294117647
+noOral_human	Heintz_2016	Luxembourg		SRR8114043	0.66106556711133
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114044	0.46438739949433977
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114045	0.703331554977949
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114046	0.32086458024108583
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114047	0.32159526168288666
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114048	0.3363554317836054
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114049	0.38488590291474906
+noOral_human	Heintz_2016	Luxembourg		SRR8114050	0.3805795126964335
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114051	0.7282645212624879
+noOral_human	Heintz_2016	Luxembourg		SRR8114052	0.34907232743258343
+noOral_human	Yunnan	China		YS000142_saliva	0.10294297255607977
+noOral_human	Yunnan	China		YS000143_saliva	0.11725038938300845
+noOral_human	Yunnan	China		YS000144_saliva	0.142385511684445
+noOral_human	Yunnan	China		YS000145_saliva	0.12671758372272454
+noOral_human	Yunnan	China		YS000146_saliva	0.14797473512632436
+noOral_human	Yunnan	China		YS000147_saliva	0.08296252173759411
+noOral_human	Yunnan	China		YS000148_saliva	0.24440243730770003
+noOral_human	Yunnan	China		YS000149_saliva	0.15482613314521498
+noOral_human	Yunnan	China		YS000150_saliva	0.15049278965428992
+noOral_human	Yunnan	China		YS000151_saliva	0.09613914932936393
+noOral_human	Yunnan	China		YS000152_saliva	0.19481770549066696
+noOral_human	Yunnan	China		YS000153_saliva	0.060020880013187373
+noOral_human	Yunnan	China		YS000154_saliva	0.09697309083110431
+noOral_human	Yunnan	China		YS000155_saliva	0.5365781739908199
+noOral_human	Yunnan	China		YS000156_saliva	0.6649594693502439
+noOral_human	Yunnan	China		YS000157_saliva	0.10353354100572774
+noOral_human	Yunnan	China		YS000159_saliva	0.03906560494526983
+noOral_human	Yunnan	China		YS000160_saliva	0.10811965888384419
+noOral_human	Yunnan	China		YS000161_saliva	0.06684534159001353
+noOral_human	Yunnan	China		YS000162_saliva	0.0550943915635224
+noOral_human	Yunnan	China		YS000163_saliva	0.2806992774979617
+noOral_human	Yunnan	China		YS000164_saliva	0.08536832726034642
+noOral_human	Yunnan	China		YS000165_saliva	0.13643577250018418
+noOral_human	Yunnan	China		YS000166_saliva	0.1611497825763463
+noOral_human	Yunnan	China		YS000167_saliva	0.17144618645326784
+noOral_human	Yunnan	China		YS000168_saliva	0.10892145729921879
+noOral_human	Yunnan	China		YS000169_saliva	0.1334822199863817
+noOral_human	Yunnan	China		YS000170_saliva	0.22073384108686703
+noOral_human	Yunnan	China		YS000171_saliva	0.16881488551336654
+noOral_human	Yunnan	China		YS000172_saliva	0.1929929396190336
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114053	0.11584019976621747
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114054	0.22962847815949014
+noOral_human	Heintz_2016	Luxembourg		SRR8114055	0.4404677962791152
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114056	0.19841722851907007
+noOral_human	Heintz_2016	Luxembourg		SRR8114057	0.8310233638186705
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114058	0.3138003391068936
+noOral_human	Heintz_2016	Luxembourg		SRR8114059	0.8986234975558861
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114060	0.17647047471459903
+noOral_human	Heintz_2016	Luxembourg		SRR8114061	0.7440568435247135
+noOral_human	Heintz_2016	Luxembourg		SRR8114062	0.4183290006252262
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114063	0.8534392732517873
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114064	0.6139241497584162
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114065	0.7411031781160526
+noOral_human	Heintz_2016	Luxembourg		SRR8114066	0.7584650717861178
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114067	0.4082445276497696
+noOral_human	Heintz_2016	Luxembourg		SRR8114068	0.3609361930093328
+noOral_human	Heintz_2016	Luxembourg		SRR8114069	0.5726373388798187
+noOral_human	Heintz_2016	Luxembourg		SRR8114070	0.4805891648798418
+noOral_human	Heintz_2016	Luxembourg		SRR8114071	0.5627823681630586
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114072	0.5475692290272434
+noOral_human	Heintz_2016	Luxembourg		SRR8114073	0.5319029229096908
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114074	0.8336729214631957
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114075	0.6593073665846684
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114076	0.5923973883840105
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114077	0.5856375870239718
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114078	0.6716267030497416
+noOral_human	Heintz_2016	Luxembourg		SRR8114079	0.9206630962158047
+noOral_human	Heintz_2016	Luxembourg		SRR8114080	0.7075048456824209
+noOral_human	Heintz_2016	Luxembourg		SRR8114081	0.7015807272490371
+noOral_human	Heintz_2016	Luxembourg		SRR8114082	0.7659271558271805
+noOral_human	Heintz_2016	Luxembourg		SRR8114083	0.7616493174899343
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114084	0.6559226918503821
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114085	0.7092453013581218
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114086	0.7202646306517684
+noOral_human	Heintz_2016	Luxembourg		SRR8114087	0.26609526936768185
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114088	0.6689104443510646
+noOral_human	Heintz_2016	Luxembourg		SRR8114089	0.6386593987647917
+noOral_human	Heintz_2016	Luxembourg		SRR8114090	0.7212787923535541
+noOral_human	Heintz_2016	Luxembourg		SRR8114091	0.7214196634761022
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114092	0.6184951145332529
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114093	0.5290290477436872
+noOral_human	Heintz_2016	Luxembourg		SRR8114094	0.6181752586252867
+noOral_human	Heintz_2016	Luxembourg	type 1 diabetes	SRR8114095	0.7897875980980898
+noOral_human	Heintz_2016	Luxembourg		SRR8114096	0.2804081892150984
+noOral_human	Heintz_2016	Luxembourg		SRR8114097	0.6162004333124489
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764790	0.2781670440921806
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764791	0.2800174820544063
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764792	0.28006811137273685
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764793	0.28432223705181864
+noOral_human	ZellerG_2014	Germany	healthy	ERR2764794	0.33220662416236446
+noOral_human	4D_SZ	China		RDPYD18088878	0.05104000511632106
+noOral_human	4D_SZ	China		RDPYD18088879	0.15785032100485485
+noOral_human	4D_SZ	China		RDPYD18088880	0.05930092938472121
+noOral_human	4D_SZ	China		RDPYD18088881	0.25821952893339256
+noOral_human	4D_SZ	China		RDPYD18088882	0.4241373696819194
+noOral_human	4D_SZ	China		RDPYD18088883	0.21499548788226566
+noOral_human	4D_SZ	China		RDPYD18088884	0.0524047794490349
+noOral_human	4D_SZ	China		RDPYD18088885	0.04534637079856417
+noOral_human	4D_SZ	China		RDPYD18088886	0.26942797488125975
+noOral_human	4D_SZ	China		RDPYD18088887	0.046760931283556725
+noOral_human	verify	verify		SRR1795012	0.028626848713811433
+noOral_human	verify	verify		SRR1781969	0.019193717791932397
+noOral_human	verify	verify		SRR1794794	0.03904605776309632
+noOral_human	verify	verify		SRR1783769	0.014869541487171567
+noOral_human	verify	verify		SRR1781970	0.13475983935742972
+noOral_human	verify	verify		SRR1783028	0.02600679518248353
+noOral_human	verify	verify		SRR1795007	0.011469717113116574
+noOral_human	verify	verify		SRR1795016	0.024002964160603612
+noOral_human	verify	verify		SRR1781983	0.008418912035121082
+noOral_human	verify	verify		SRR1783774	0.023704402134892694
+noOral_human	verify	verify		SRR1795230	0.01045235078275937
+noOral_human	verify	verify		SRR1783763	0.13870259455922693
+noOral_human	verify	verify		SRR1779506	0.03608640626896205
+noOral_human	verify	verify		SRR1795229	0.006532996172989011
+noOral_human	verify	verify		SRR1783079	0.021316043671119358
+noOral_human	verify	verify		SRR1783718	0.04558492515660958
+noOral_human	verify	verify		SRR1795009	0.005940134610959693
+noOral_human	verify	verify		SRR1779403	0.006218756727020498
+noOral_human	verify	verify		SRR1779502	0.004983815837707657
+noOral_human	verify	verify		SRR1795018	0.00267140055707523
+noOral_human	verify	verify		SRR1781914	0.009643909212939783
+noOral_human	verify	verify		SRR1779511	0.16770627313758305
+noOral_human	verify	verify		SRR1783767	0.01946796634628475
+noOral_human	verify	verify		SRR1783758	0.02217295952758447
+noOral_human	verify	verify		SRR1779492	0.013375071143995446
+noOral_human	verify	verify		SRR1779468	0.03555135359316924
+noOral_human	verify	verify		SRR1779378	0.008032163026555695
+noOral_human	verify	verify		SRR1779495	0.033044906072096016
+noOral_human	verify	verify		SRR1783771	0.05118252884973322
+noOral_human	verify	verify		SRR1795008	0.006118686283971963
+noOral_human	verify	verify		SRR1783722	0.09592007731593134
+noOral_human	verify	verify		SRR1795017	0.013345125541341239
+noOral_human	verify	verify		SRR1794621	0.10961955290305204
+noOral_human	verify	verify		SRR1779482	0.010604893400812089
+noOral_human	verify	verify		SRR1783757	0.03313922388111629
+noOral_human	verify	verify		SRR1783775	0.03633011704359223
+noOral_human	verify	verify		SRR1779488	0.005978584690104642
+noOral_human	verify	verify		SRR1779497	0.006731931137562351
+noOral_human	verify	verify		SRR1779479	0.02727566808423345
+noOral_human	verify	verify		SRR1794618	0.008706370518477074
+noOral_human	verify	verify		SRR1783760	0.07968911141421871
+noOral_human	verify	verify		SRR1783724	0.029025518639112766
+noOral_human	verify	verify		SRR1795019	0.010252484495545076
+noOral_human	verify	verify		SRR1794083	0.004111244888957764
+noOral_human	verify	verify		SRR1794623	0.13855724333589456
+noOral_human	verify	verify		SRR1783768	0.20255087251434867
+noOral_human	verify	verify		SRR1783032	0.043560268453983135
+noOral_human	verify	verify		SRR1795020	0.0024624420426438893
+noOral_human	verify	verify		s1-case	0.362546962704548
+noOral_human	verify	verify		s2-case	0.45991845970434375
+noOral_human	verify	verify		s3-control	0.10867439729094758
+noOral_human	verify	verify		s4-control	0.3692713361622723
+noOral_human	verify	verify		ERR1474564	0.11912654057952013
+noOral_human	verify	verify		ERR1474565	0.08744641090469385
+noOral_human	verify	verify		ERR1474566	0.0479122252603389
+noOral_human	verify	verify		ERR1474567	0.10221538662914362
+noOral_human	verify	verify		ERR1474568	0.082521575087477
+noOral_human	verify	verify		ERR1474569	0.08633983971371521
+noOral_human	verify	verify		ERR1474570	0.0335302937549351
+noOral_human	verify	verify		ERR1474571	0.025378991194348135
+noOral_human	verify	verify		ERR1474572	0.1237239908475648
+noOral_human	verify	verify		ERR1474573	0.0367283429426097
+noOral_human	verify	verify		ERR1474574	0.06070142549951861
+noOral_human	verify	verify		ERR1474575	0.03005963942142906
+noOral_human	verify	verify		ERR1474576	0.06237041303274642
+noOral_human	verify	verify		ERR1474577	0.039577987050344966
+noOral_human	verify	verify		ERR1474578	0.04509651509262858
+noOral_human	verify	verify		ERR1474579	0.10474534463234313
+noOral_human	verify	verify		ERR1474580	0.006863060563734283
+noOral_human	verify	verify		ERR1474581	0.029505197006284404
+noOral_human	verify	verify		ERR1474582	0.00958831571447827
+noOral_human	verify	verify		ERR1474583	0.010194747651726472
+noOral_human	verify	verify		ERR1474584	0.06546433707658884
+noOral_human	verify	verify		ERR1474585	0.1416411814191198
+noOral_human	verify	verify		ERR1474586	0.1398446158998396
+noOral_human	verify	verify		ERR1474587	0.09808292004323385
+noOral_human	verify	verify		ERR1474606	0.0013529752850912208
+noOral_human	verify	verify		ERR1474607	0.0014154997219554117
+noOral_human	verify	verify		ERR1474608	0.0005068770680815126
+noOral_human	verify	verify		ERR1474609	0.0025709012885079324
+noOral_human	verify	verify		ERR1474612	0.0010907060171875434
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6747968	0.04303482587064677
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6747970	0.009154599240395236
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6747999	0.0624157195145444
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748002	0.07163138874548271
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748003	0.01874265569917744
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748009	0.01818996838578776
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748010	0.01659649357303571
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748017	0.015266910705921132
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748018	0.03892722839786768
+noOral_human	4D_SZ	China		RDPYD18075162	0.06488400362040694
+noOral_human	4D_SZ	China		RDPYD18075163	0.1934383257969463
+noOral_human	4D_SZ	China		RDPYD18075164	0.11139541634064463
+noOral_human	4D_SZ	China		RDPYD18075165	0.10291972271689154
+noOral_human	4D_SZ	China		RDPYD18075166	0.11442065171984052
+noOral_human	4D_SZ	China		RDPYD18075167	0.1722259626614741
+noOral_human	4D_SZ	China		RDPYD18075169	0.11577650674351635
+noOral_human	4D_SZ	China		RDPYD18075170	0.1765236932154456
+noOral_human	4D_SZ	China		RDPYD18075171	0.1473244313107144
+noOral_human	4D_SZ	China		RDPYD18075172	0.05269731589470337
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748020	0.014927495024168326
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748021	0.08926315789473684
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748022	0.018211764705882354
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748023	0.02165235934168079
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748024	0.02912067771759052
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748036	0.015806496976515257
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748038	0.017908462579863667
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748039	0.02691430628900624
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748045	0.04099425972056753
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748064	0.04826472962066183
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748066	0.02341368800221668
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748067	0.05727758130504126
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748068	0.130175983436853
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748069	0.041664846923177706
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748070	0.07722084367245657
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748073	0.16616373016645575
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748074	0.04682192260549816
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748075	0.016551026308181557
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748077	0.01782470481380563
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748078	0.0127015720936509
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748079	0.02201877093829118
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748080	0.05043503202983077
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748081	0.09452420276966078
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748083	0.07686187141947803
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748084	0.10068751386116656
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748085	0.012128121091214238
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748086	0.14295687247905678
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748087	0.12765803033601858
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748088	0.031645063210113615
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748089	0.07997717267242785
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748090	0.08526859767768279
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748091	0.04302499320836729
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748092	0.12668989547038328
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748093	0.02181112456377751
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748094	0.04758599748405847
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748095	0.07777777777777778
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748096	0.020214285714285716
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748097	0.034801793466657176
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748098	0.04331509986006869
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748099	0.08832835296185622
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748100	0.07860790817669668
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748105	0.030672394844639825
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748106	0.02513261386500823
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748107	0.04774460200954892
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748108	0.01050759780148723
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748109	0.01233809843615082
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748110	0.03381399508160072
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748115	0.0024521895586058795
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748116	0.020345368916797488
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748118	0.03623432528542018
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748133	0.00879761545228935
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748134	0.012300255136296494
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748137	0.4311157674174961
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748138	0.1682982300009888
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748139	0.0692222631772945
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748140	0.007151038294905632
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748141	0.03506808431262824
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748142	0.02918370685424505
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748148	0.016017495123825286
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748157	0.03188521323236349
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748158	0.020180912578004237
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748159	0.005653074189980941
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748160	0.005718146463647749
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748161	0.007858187134502924
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748162	0.01564255991252316
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748163	0.010573308270676691
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748164	0.011197411003236245
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748165	0.024408077245650632
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748166	0.03376598496096556
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748182	0.035554021401449774
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748184	0.01921397379912664
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748185	0.02142623171930095
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748195	0.026727969348659005
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748198	0.01721192527416007
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748199	0.02745664739884393
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748200	0.034936008301625736
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748201	0.01854895515379197
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748202	0.033039294306335204
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748203	0.04956175298804781
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748204	0.026703499079189688
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748205	0.06093111897631364
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748206	0.02778822162217589
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748220	0.01718177328377219
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748221	0.01605146660721679
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748222	0.03008011653313911
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748223	0.018531778993498123
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748224	0.049747048903878585
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748225	0.015445689124135886
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748226	0.015500933219448926
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748227	0.010700742818554881
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748228	0.01134298138646665
+noOral_human	GoltsmanDSA_2018	USA	pregnant	SRR6748229	0.024141411386017077
+noOral_human	ZhangX_2015	China	healthy	ERR589346	0.050628446498897334
+noOral_human	ZhangX_2015	China	healthy	ERR589347	0.016895790751213155
+noOral_human	ZhangX_2015	China	healthy	ERR589351	0.005087502739868256
+noOral_human	ZhangX_2015	China	healthy	ERR589352	0.050201415870140396
+noOral_human	ZhangX_2015	China	healthy	ERR589353	0.004648610512287853
+noOral_human	ZhangX_2015	China	healthy	ERR589354	0.00485047716485249
+noOral_human	ZhangX_2015	China	healthy	ERR589355	0.02749350251796186
+noOral_human	ZhangX_2015	China	healthy	ERR589356	0.010512375198346701
+noOral_human	4D_SZ	China		RDPYD18075173	0.15727614098343082
+noOral_human	4D_SZ	China		RDPYD18075174	0.04840675119361526
+noOral_human	4D_SZ	China		RDPYD18075176	0.061110539814350044
+noOral_human	4D_SZ	China		RDPYD18075177	0.056781473855524185
+noOral_human	4D_SZ	China		RDPYD18075178	0.13088364554549442
+noOral_human	4D_SZ	China		RDPYD18075179	0.1467728353309568
+noOral_human	4D_SZ	China		RDPYD18075180	0.10488387806981314
+noOral_human	4D_SZ	China		RDPYD18075181	0.2791651079693506
+noOral_human	4D_SZ	China		RDPYD18075182	0.14104124807942323
+noOral_human	4D_SZ	China		RDPYD18075183	0.06897356490824022
+noOral_human	ZhangX_2015	China	healthy	ERR589357	0.001888633038033553
+noOral_human	ZhangX_2015	China	healthy	ERR589358	0.0013484781834558746
+noOral_human	ZhangX_2015	China	healthy	ERR589359	0.0086949884785648
+noOral_human	ZhangX_2015	China	healthy	ERR589360	0.04541011383725127
+noOral_human	ZhangX_2015	China	healthy	ERR589361	0.07541441538232267
+noOral_human	ZhangX_2015	China	healthy	ERR589362	0.012822250682374936
+noOral_human	ZhangX_2015	China	healthy	ERR589363	0.0027388657917932382
+noOral_human	ZhangX_2015	China	healthy	ERR589364	0.017334975594179097
+noOral_human	ZhangX_2015	China	healthy	ERR589365	0.0013848778431364824
+noOral_human	ZhangX_2015	China	healthy	ERR589366	0.04643154111353126
+noOral_human	ZhangX_2015	China	healthy	ERR589367	0.0016023406126462528
+noOral_human	ZhangX_2015	China	healthy	ERR589368	0.04970809912830896
+noOral_human	ZhangX_2015	China	healthy	ERR589369	0.003592321039817001
+noOral_human	ZhangX_2015	China	healthy	ERR589370	0.019018050740001305
+noOral_human	ZhangX_2015	China	healthy	ERR589371	0.006175626881136013
+noOral_human	ZhangX_2015	China	healthy	ERR589372	0.0029286509576601986
+noOral_human	ZhangX_2015	China	healthy	ERR589373	0.0008617359522182272
+noOral_human	ZhangX_2015	China	healthy	ERR589348	0.5921595839618597
+noOral_human	ZhangX_2015	China	healthy	ERR589349	0.587775556691925
+noOral_human	ZhangX_2015	China	healthy	ERR589350	0.06814527676745141
+noOral_human	ZhangX_2015	China	healthy	ERR589382	0.48216140133215285
+noOral_human	ZhangX_2015	China	healthy	ERR589383	0.4775785008574767
+noOral_human	ZhangX_2015	China	healthy	ERR589384	0.7684827982810797
+noOral_human	ZhangX_2015	China	healthy	ERR589385	0.7668218630858694
+noOral_human	ZhangX_2015	China	healthy	ERR589386	0.35327543195047584
+noOral_human	ZhangX_2015	China	healthy	ERR589387	0.35450945766508085
+noOral_human	ZhangX_2015	China	healthy	ERR589388	0.36443129672780294
+noOral_human	ZhangX_2015	China	healthy	ERR589389	0.36689049944352436
+noOral_human	ZhangX_2015	China	healthy	ERR589390	0.7570551746260532
+noOral_human	ZhangX_2015	China	healthy	ERR589391	0.7545777699580996
+noOral_human	ZhangX_2015	China	healthy	ERR589392	0.34913322049720186
+noOral_human	ZhangX_2015	China	healthy	ERR589393	0.3511920340230637
+noOral_human	ZhangX_2015	China	healthy	ERR589394	0.5630371654487869
+noOral_human	ZhangX_2015	China	healthy	ERR589395	0.5608092431905712
+noOral_human	ZhangX_2015	China	healthy	ERR589396	0.6493026453674652
+noOral_human	ZhangX_2015	China	healthy	ERR589397	0.6495055925993567
+noOral_human	ZhangX_2015	China	healthy	ERR589398	0.5632367428250352
+noOral_human	ZhangX_2015	China	healthy	ERR589399	0.5540819303486184
+noOral_human	ZhangX_2015	China	healthy	ERR589400	0.5384463372231186
+noOral_human	ZhangX_2015	China	healthy	ERR589401	0.5400388393877085
+noOral_human	ZhangX_2015	China	healthy	ERR589402	0.23786362716765688
+noOral_human	ZhangX_2015	China	healthy	ERR589403	0.24027069723905314
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589451	0.4586549393886015
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589464	0.5244926454055645
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589465	0.10968087257502408
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589466	0.18842012472916306
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589467	0.3771966816512524
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589486	0.1354095353733676
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589487	0.5497678593455969
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589488	0.06374127284135285
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589489	0.21057755298474962
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589490	0.3825555212150647
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589491	0.7487400705947641
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589492	0.31556654959569674
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589493	0.1760454533679875
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589494	0.672156831891611
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589495	0.04549995606855908
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589496	0.03783933004220665
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589497	0.4800440774018551
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589519	0.5029863374016771
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589520	0.4686996810987069
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589521	0.49460471129417777
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589522	0.4551223147921261
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589523	0.7592221797964183
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589524	0.23389198740480627
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589525	0.4124429013563394
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589667	0.09852836064736815
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589444	0.010208961006520155
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589445	0.04680902962568742
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589446	0.06750773701766569
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589447	0.009147461642742211
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589449	0.03321379427388941
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589450	0.026180461836881636
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589453	0.12670048793097877
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589454	0.031529368059333165
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589455	0.16562888325737535
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589460	0.058673682371100995
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589461	0.028176809550165622
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589462	0.00047880080588521184
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589463	0.027255137857045406
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589468	0.004603320519248983
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589469	0.005876441967140446
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589470	0.011256288193389379
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589471	0.007835219260571322
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589472	0.024261291128915553
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589473	0.025102358648766216
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589474	0.057652181293226724
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589475	0.10701002716233335
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589476	0.05138864786968364
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589477	0.05640750792528565
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589478	0.13394779332615717
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589479	0.056648004906130686
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589703	0.17201882467255925
+noOral_human	ZhangX_2015	China	healthy	ERR589406	0.4593985382053058
+noOral_human	ZhangX_2015	China	healthy	ERR589424	0.36666831964119434
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589541	0.05425161142734111
+noOral_human	ZhangX_2015	China	healthy	ERR589611	0.03127171536473862
+noOral_human	ZhangX_2015	China	healthy	ERR589712	0.13345574750745998
+noOral_human	ZhangX_2015	China	healthy	ERR589436	0.2926938613134219
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589675	0.1111717381925234
+noOral_human	4D_SZ	China		RDPYD18075185	0.12137393927267776
+noOral_human	4D_SZ	China		RDPYD18075186	0.16337954590390227
+noOral_human	4D_SZ	China		RDPYD18088777	0.08028313615009768
+noOral_human	4D_SZ	China		RDPYD18088778	0.1798825208096167
+noOral_human	4D_SZ	China		RDPYD18088779	0.24829792031774792
+noOral_human	4D_SZ	China		RDPYD18088780	0.1271578114354348
+noOral_human	4D_SZ	China		RDPYD18088781	0.21402068533369006
+noOral_human	4D_SZ	China		RDPYD18088782	0.23348330490216734
+noOral_human	4D_SZ	China		RDPYD18088783	0.3548566547668587
+noOral_human	4D_SZ	China		RDPYD18088784	0.139520256215538
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589632	0.006669523021499311
+noOral_human	ZhangX_2015	China	healthy	ERR589416	0.1440406531380743
+noOral_human	ZhangX_2015	China	healthy	ERR589655	0.004059480287812394
+noOral_human	ZhangX_2015	China	healthy	ERR589720	0.8206885965746266
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589620	0.07320449309930076
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589719	0.029019852530912712
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589729	0.06303528270748437
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589724	0.165404049915421
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589721	0.2920929885190139
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589599	0.003127219988313385
+noOral_human	ZhangX_2015	China	healthy	ERR589652	0.13897127133489912
+noOral_human	ZhangX_2015	China	healthy	ERR589409	0.543315593323569
+noOral_human	ZhangX_2015	China	healthy	ERR589457	0.5112658662092624
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589636	0.002739278265905401
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589728	0.0987257458557057
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589691	0.11511280456360591
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589619	0.03166693702096598
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589699	0.04150925791641354
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589705	0.03554916203432374
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589673	0.10792523312031206
+noOral_human	ZhangX_2015	China	healthy	ERR589688	0.012785524228226885
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589617	0.01893609528078376
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589645	0.01961637660511162
+noOral_human	ZhangX_2015	China	healthy	ERR589429	0.5185719299236389
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589481	0.038383545045338245
+noOral_human	ZhangX_2015	China	healthy	ERR589650	0.01203725664481836
+noOral_human	ZhangX_2015	China	healthy	ERR589639	0.01610522745092122
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589608	0.06594638524385607
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589717	0.0729509689727403
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589676	0.19209401575493987
+noOral_human	ZhangX_2015	China	healthy	ERR589626	0.009870297562796703
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589635	0.028949555483433257
+noOral_human	ZhangX_2015	China	healthy	ERR589381	0.004403050059842779
+noOral_human	ZhangX_2015	China	healthy	ERR589668	0.13184730726865726
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589609	0.02203061391925364
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589610	0.001918860552908788
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589730	0.11797747206446241
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589708	0.02631308625956262
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589614	0.013514342719119969
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589664	0.010529105753589823
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589686	0.03610069534556974
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589727	0.11903677956963352
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589606	0.010164451367827856
+noOral_human	ZhangX_2015	China	healthy	ERR589695	0.3977099598464278
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589482	0.009988117718212952
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589640	0.013686078535658053
+noOral_human	ZhangX_2015	China	healthy	ERR589425	0.37282928595642395
+noOral_human	ZhangX_2015	China	healthy	ERR589426	0.4138252856482698
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589653	0.0019911927263933475
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589698	0.05490666521257066
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589665	0.055400092677343665
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589685	0.37087756157190227
+noOral_human	ZhangX_2015	China	healthy	ERR589706	0.045461185258042686
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589678	0.05823432773025063
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589517	0.010828885065413886
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589726	0.38865510450586443
+noOral_human	ZhangX_2015	China	healthy	ERR589704	0.049142130348982814
+noOral_human	ZhangX_2015	China	healthy	ERR589377	0.028572043469554657
+noOral_human	ZhangX_2015	China	healthy	ERR589616	0.0041224093542465545
+noOral_human	ZhangX_2015	China	healthy	ERR589410	0.4689120250737709
+noOral_human	ZhangX_2015	China	healthy	ERR589456	0.5070676531265562
+noOral_human	ZhangX_2015	China	healthy	ERR589437	0.2980612364756398
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589518	0.021542184149264343
+noOral_human	ZhangX_2015	China	healthy	ERR589641	0.0279161142191896
+noOral_human	ZhangX_2015	China	healthy	ERR589405	0.3915098494517254
+noOral_human	ZhangX_2015	China	healthy	ERR589413	0.45967717558867094
+noOral_human	ZhangX_2015	China	healthy	ERR589434	0.223739134554981
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589649	0.029319589342865455
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589629	0.10729750681641995
+noOral_human	ZhangX_2015	China	healthy	ERR589674	0.20629190426486044
+noOral_human	ZhangX_2015	China	healthy	ERR589431	0.4011270020250368
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589633	0.03496129075532157
+noOral_human	ZhangX_2015	China	healthy	ERR589379	0.0023097024013474295
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589714	0.2198726717574876
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589659	0.035028577998226194
+noOral_human	ZhangX_2015	China	healthy	ERR589428	0.5170428162106295
+noOral_human	ZhangX_2015	China	healthy	ERR589603	0.012427623863969511
+noOral_human	ZhangX_2015	China	healthy	ERR589625	0.009343301034801809
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589692	0.08601355315179147
+noOral_human	ZhangX_2015	China	healthy	ERR589597	0.02136936523267413
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589713	0.2959441764128914
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589701	0.09044496477607576
+noOral_human	ZhangX_2015	China	healthy	ERR589427	0.4141207709997866
+noOral_human	ZhangX_2015	China	healthy	ERR589380	0.0012730268972905765
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589630	0.042926962499024564
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589651	0.07758446741250588
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589711	0.12365037515805878
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589697	0.04131248284818331
+noOral_human	ZhangX_2015	China	healthy	ERR589376	0.03229337125589925
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589683	0.3395048423584559
+noOral_human	ZhangX_2015	China	healthy	ERR589408	0.5456776725075784
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589498	0.11310734868898721
+noOral_human	ZhangX_2015	China	healthy	ERR589374	0.00568632045519183
+noOral_human	ZhangX_2015	China	healthy	ERR589375	0.019420156725060513
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589624	0.03575380371050947
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589656	0.1304501953966753
+noOral_human	ZhangX_2015	China	healthy	ERR589378	0.06349203201078926
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589693	0.09730377086272099
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589516	0.14035141658083658
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589722	0.3282513479930506
+noOral_human	4D_SZ	China		RDPYD18088785	0.19578551242333037
+noOral_human	4D_SZ	China		RDPYD18088787	0.16017756601702296
+noOral_human	4D_SZ	China		RDPYD18088788	0.11144729703191103
+noOral_human	4D_SZ	China		RDPYD18088791	0.1380647032092507
+noOral_human	4D_SZ	China		RDPYD18088792	0.07951793518298539
+noOral_human	4D_SZ	China		RDPYD18088793	0.11375897410300564
+noOral_human	4D_SZ	China		RDPYD18088794	0.13410200044699
+noOral_human	4D_SZ	China		RDPYD18088795	0.04823089064688741
+noOral_human	4D_SZ	China		RDPYD18088796	0.10170917312975615
+noOral_human	4D_SZ	China		RDPYD18088797	0.10405201530090813
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589604	0.012080944801459343
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589631	0.01317646038973654
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589680	0.20281124068709716
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589684	0.06351395242078448
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589682	0.12852239277238514
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589702	0.18920931229365393
+noOral_human	ZhangX_2015	China	healthy	ERR589718	0.08689041667277043
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589602	0.008861866640751224
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589658	0.2550932727617316
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589627	0.008685604872654044
+noOral_human	ZhangX_2015	China	healthy	ERR589423	0.529455028709396
+noOral_human	ZhangX_2015	China	healthy	ERR589716	0.5085712435208485
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589681	0.19960705012222668
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589514	0.09296394816568294
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589710	0.06668464508873499
+noOral_human	ZhangX_2015	China	healthy	ERR589657	0.17067633035422053
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589618	0.021091605335717113
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589642	0.14269690579918815
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589621	0.12038755132597852
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589628	0.004951938733942227
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589644	0.039322571963684494
+noOral_human	ZhangX_2015	China	healthy	ERR589439	0.36663518218142976
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589596	0.002424363071476053
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589662	0.0813435829949768
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589679	0.07921319587628865
+noOral_human	ZhangX_2015	China	healthy	ERR589637	0.008682050942271105
+noOral_human	ZhangX_2015	China	healthy	ERR589419	0.4224216290404461
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589499	0.0874746338833471
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589605	0.03210882491976215
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589687	0.18043666069984587
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589648	0.14322103796708374
+noOral_human	ZhangX_2015	China	healthy	ERR589672	0.04515815417801222
+noOral_human	ZhangX_2015	China	healthy	ERR589432	0.0758956314232606
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589515	0.046028447503865796
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589670	0.4487145277797719
+noOral_human	ZhangX_2015	China	healthy	ERR589643	0.04400647898974403
+noOral_human	ZhangX_2015	China	healthy	ERR589420	0.024645273138695932
+noOral_human	ZhangX_2015	China	healthy	ERR589417	0.14444061159651767
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589700	0.39010331765782036
+noOral_human	ZhangX_2015	China	healthy	ERR589526	0.0100504567853168
+noOral_human	ZhangX_2015	China	healthy	ERR589438	0.36604423156082777
+noOral_human	ZhangX_2015	China	healthy	ERR589715	0.07608983403394959
+noOral_human	ZhangX_2015	China	healthy	ERR589414	0.3154355134955102
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589613	0.0513185279443689
+noOral_human	ZhangX_2015	China	healthy	ERR589407	0.45986868323597163
+noOral_human	ZhangX_2015	China	healthy	ERR589598	0.016639525633488614
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589671	0.310188109777497
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589634	0.004482411019160813
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589500	0.05100967015228063
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589669	0.14927059751875035
+noOral_human	ZhangX_2015	China	healthy	ERR589415	0.3216500435394969
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589601	0.018695859459257697
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589484	0.006726256697484687
+noOral_human	ZhangX_2015	China	healthy	ERR589459	0.4485085356295708
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589677	0.10684401803913343
+noOral_human	ZhangX_2015	China	healthy	ERR589723	0.34689654318465346
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589666	0.014504090064220569
+noOral_human	ZhangX_2015	China	healthy	ERR589404	0.3862441853440464
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589480	0.004581091685459983
+noOral_human	ZhangX_2015	China	healthy	ERR589418	0.4242086225062171
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589612	0.030125366146568355
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589661	0.07069567039568253
+noOral_human	ZhangX_2015	China	healthy	ERR589689	0.4638596973743163
+noOral_human	ZhangX_2015	China	healthy	ERR589435	0.21969808758239412
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589725	0.11781453249927504
+noOral_human	ZhangX_2015	China	healthy	ERR589430	0.39897973209018905
+noOral_human	ZhangX_2015	China	healthy	ERR589412	0.45536254296848083
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589709	0.6302401623327618
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589615	0.010693631106099735
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589707	0.10456061372282653
+noOral_human	ZhangX_2015	China	healthy	ERR589422	0.5251331024482944
+noOral_human	ZhangX_2015	China	healthy	ERR589421	0.025528579895402078
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589600	0.0033779444891801806
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589638	0.002301394846505752
+noOral_human	ZhangX_2015	China	healthy	ERR589647	0.11078183474685281
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589696	0.2816897370322374
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589654	0.251605243880876
+noOral_human	ZhangX_2015	China	healthy	ERR589622	0.03825594166380568
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589646	0.018040977170068223
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589623	0.09083823922433422
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589483	0.004501601004183227
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589660	0.0034675598861479283
+noOral_human	ZhangX_2015	China	healthy	ERR589607	0.007190091977965442
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589663	0.019206608071768348
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589731	0.06203084129989527
+noOral_human	ZhangX_2015	China	healthy	ERR589458	0.44748276056943587
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589694	0.12301971787229499
+noOral_human	ZhangX_2015	China	healthy	ERR589433	0.07554144505243066
+noOral_human	ZhangX_2015	China	healthy	ERR589411	0.46987000189792244
+noOral_human	ZhangX_2015	China	rheumatoid arthritis	ERR589690	0.05032327609720758
+noOral_human	4D_SZ	China		RDPYD18088798	0.09662480501282289
+noOral_human	4D_SZ	China		RDPYD18088799	0.14318595770856135
+noOral_human	4D_SZ	China		RDPYD18088800	0.04762417010999269
+noOral_human	4D_SZ	China		RDPYD18088801	0.05647204134867931
+noOral_human	4D_SZ	China		RDPYD18088802	0.12452587459969738
+noOral_human	4D_SZ	China		RDPYD18088803	0.055801336663027175
+noOral_human	4D_SZ	China		RDPYD18088804	0.18523753448738092
+noOral_human	4D_SZ	China		RDPYD18088805	0.10466113811838719
+noOral_human	4D_SZ	China		RDPYD18088806	0.3102552710596388
+noOral_human	4D_SZ	China		RDPYD18088807	0.19521023295312387
+noOral_human	4D_SZ	China		RDPYD18079665	0.022503167433657344
+noOral_human	4D_SZ	China		RDPYD18079666	0.07466802799589962
+noOral_human	4D_SZ	China		RDPYD18079667	0.046418046387948136
+noOral_human	4D_SZ	China		RDPYD18079669	0.01703032001528835
+noOral_human	4D_SZ	China		RDPYD18079670	0.010650672347356295
+noOral_human	4D_SZ	China		RDPYD18079671	0.04351319252923166
+noOral_human	4D_SZ	China		RDPYD18079672	0.0706717908700216
+noOral_human	4D_SZ	China		RDPYD18079673	0.06420148797985861
+noOral_human	4D_SZ	China		RDPYD18079674	0.03696334396985194
+noOral_human	4D_SZ	China		RDPYD18079675	0.011429335614498187
+noOral_human	4D_SZ	China		RDPYD18079676	0.059034616070250664
+noOral_human	4D_SZ	China		RDPYD18079677	0.022146116712453166
+noOral_human	4D_SZ	China		RDPYD18079679	0.011187876687091194
+noOral_human	4D_SZ	China		RDPYD18079680	0.03815545070389164
+noOral_human	4D_SZ	China		RDPYD18079681	0.10604459320822805
+noOral_human	4D_SZ	China		RDPYD18079682	0.019437275747574183
+noOral_human	4D_SZ	China		RDPYD18079683	0.011022494558670225
+noOral_human	4D_SZ	China		RDPYD18079684	0.04639156403963409
+noOral_human	4D_SZ	China		RDPYD18079685	0.08721711995980877
+noOral_human	4D_SZ	China		RDPYD18079686	0.025559646661883966
+noOral_human	4D_SZ	China		RDPYD18079687	0.16100139390425858
+noOral_human	4D_SZ	China		RDPYD18079688	0.10717029655500147
+noOral_human	4D_SZ	China		RDPYD18088860	0.06852147741341735
+noOral_human	4D_SZ	China		RDPYD18088861	0.07858802668653042
+noOral_human	4D_SZ	China		RDPYD18088862	0.029715066445045853
+noOral_human	4D_SZ	China		RDPYD18088863	0.04397884490432499
+noOral_human	4D_SZ	China		RDPYD18088864	0.1514403644829113
+noOral_human	4D_SZ	China		RDPYD18088865	0.018146429132901713
+noOral_human	4D_SZ	China		RDPYD18088866	0.09731091898003306
+noOral_human	4D_SZ	China		RDPYD18088867	0.09197575166800605
+noOral_human	4D_SZ	China		RDPYD18088868	0.11349293770725047
+noOral_human	4D_SZ	China		RDPYD18088869	0.16073280386106023
+noOral_human	4D_SZ	China		RDPYD18088870	0.005740468829549396
+noOral_human	4D_SZ	China		RDPYD18088871	0.13727521315311006
+noOral_human	4D_SZ	China		RDPYD18088872	0.19773741098655523
+noOral_human	4D_SZ	China		RDPYD18088873	0.07211800217363643
+noOral_human	4D_SZ	China		RDPYD18088874	0.06040495960879732
+noOral_human	4D_SZ	China		RDPYD18088875	0.11572332106875335
+noOral_human	4D_SZ	China		RDPYD18088876	0.140917545580901
+noOral_human	4D_SZ	China		RDPYD18088877	0.15882362039896675
