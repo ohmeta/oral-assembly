@@ -1,7 +1,7 @@
 import math
 #mldist = "../data.tre.mldist"
-oral_rep_file = "00.data/oral_mgs_representative.tsv"
-tax_file = "00.data/oral_mgs_gtdb_taxonomy.tsv"
+oral_rep_file = "00.data/oral_sgb_representative.tsv"
+tax_file = "00.data/oral_sgb_gtdb_taxonomy.tsv"
 annot_file = "00.data/oral_annot.txt"
 nodes_dict_file = "00.data/rename.dict"
 
@@ -22,7 +22,7 @@ print("load mgs_dict:", len(rep_dict))
 tax_dict = {}
 for i in open(tax_file).readlines()[1:]:
     item = i.split("\t")
-    phylum = item[5].split(";")[1].lstrip("p__").split("_")[0]
+    phylum = item[5].split(";")[1].split("p__")[1].split("_")[0]
     rep_id = item[9].split("/")[-1].rstrip(".gz").rstrip(".fna").rstrip(".fa")
     tax_dict[rep_id] = phylum
 print("load tax_dict:", len(tax_dict))
@@ -47,17 +47,18 @@ f_o.write(global_set)
 
 #node_color
 node_color = \
-{"Actinobacteriota":"#EE6A50",\
-"Bacteroidota":"#87CEFA",\
-"Campylobacterota":"#FFC125",\
-#"Candidatus_Saccharibacteria":"#7B68EE",\
-"Firmicutes":"#9ACD32",\
-"Fusobacteriota":"#00CD00",\
-"Patescibacteria":"#D15FEE",\
-"Proteobacteria":"#8DEEEE",\
-"Spirochaetota":"#9ACD32",\
-"Synergistota":"#B0171F",\
+{"Firmicutes":"#CAB2D6",\
+"Patescibacteria":"#FF7F00",\
+"Actinobacteriota":"#FDBF6F",\
+"Bacteroidota":"#E31A1C",\
+"Proteobacteria":"#FB9A99",\
+
+"Campylobacterota":"#33A02C",\
+"Fusobacteriota":"#B2DF8A",\
+"Spirochaetota":"#1F78B4",\
+"Synergistota":"#A6CEE3",\
 "Others":"#808080",\
+
 "kSGB":"#4a87cb",\
 "uSGB":"#e66827"}
 

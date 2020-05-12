@@ -78,6 +78,7 @@ uSGB_taxon_e_p = print(ggplot(taxon_merge, aes(x = Phylum, y = percent, fill = P
                        + theme_bw(base_size = 16) 
                        + coord_flip() 
                        + guides(fill=FALSE)
-                       + scale_fill_brewer(palette="Set3") 
+                       #+ scale_fill_brewer(palette="Set3") 
+                       + scale_fill_brewer(palette="Paired") 
                        + xlab("") + ylab(""))
 ggsave("01.figure/figure3b.uSGB.proportion.pdf", uSGB_taxon_e_p, width = 7, height = 5)
